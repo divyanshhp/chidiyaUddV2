@@ -35,5 +35,3 @@ UI should be Responsive for all devices.
 # multiplayer not working
 # make it adaptive for mobile too
 # dataset clean kro
-
-

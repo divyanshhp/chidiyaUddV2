@@ -4,8 +4,7 @@
 
 # 🐦 Chidiya Udd - The Ultimate Bird Brain Game! 
 
-Test your knowledge in the fastest quiz game with **real-time multiplayer action**, powered by Google's Gemini AI! 🤖✨
-
+Test your knowledge in the fastest quiz game with **real-time multiplayer action**
 > **Challenge your friends. Don't let the subjects fool you!**
 
 ---
